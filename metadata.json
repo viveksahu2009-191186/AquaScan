@@ -1,0 +1,8 @@
+{
+  "name": "AquaScan AI - Portable Water Quality Tester",
+  "description": "An AI-powered application that analyzes water safety using sensor data and image recognition of test strips, providing real-time risk classification and health recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
